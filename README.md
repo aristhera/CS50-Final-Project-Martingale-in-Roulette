@@ -1,5 +1,5 @@
 # CS50 Martingale in Roulette
-#### Video Demo:  <<a href="https://www.youtube.com/aristhera" target="_blank">Video Final Project CS50</a>
+#### Video Demo:  <a href="https://www.youtube.com/watch?v=8lFj8Z1G3z8" target="_blank">Video Final Project CS50</a>
 #### Description:
 My projects simulates playing Roulette with the Martingale system. 
 It consists of the functions:
